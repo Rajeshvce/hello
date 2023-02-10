@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	 printf("This is my first recipe\n");
+	say_hello();
        
 	return 0;
 }
